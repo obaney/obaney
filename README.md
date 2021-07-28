@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @obaney
-- 👀 Interested in polar remote sensing - multispectral, LiDAR, SAR
+- 👀 Interested in polar remote sensing - optical, LiDAR, SAR
 - 🌱 Currently learning python, machine learning, oceanic/atmospheric processes
 
 <!---
